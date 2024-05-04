@@ -7,7 +7,7 @@ and/or use gtk-doc annotations.  -->
   <include name="Gtk" version="3.0"/>
   <include name="JavaScriptCore" version="4.0"/>
   <include name="Soup" version="2.4"/>
-  <package name="webkit2gtk-web-extension-4.0"/>
+  <package name="webkit2gtk-web-extension-4.1"/>
   <c:include name="webkit2/webkit-web-extension.h"/>
   <namespace name="WebKit2WebExtension" version="4.0" shared-library="libwebkit2gtk-4.1.so" c:identifier-prefixes="WebKit" c:symbol-prefixes="webkit">
     <function-macro name="CONTEXT_MENU" c:identifier="WEBKIT_CONTEXT_MENU" introspectable="0">
