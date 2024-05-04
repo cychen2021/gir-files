@@ -9,7 +9,7 @@ and/or use gtk-doc annotations.  -->
   <include name="Soup" version="2.4"/>
   <package name="webkit2gtk-4.0"/>
   <c:include name="webkit2/webkit2.h"/>
-  <namespace name="WebKit2" version="4.0" shared-library="libwebkit2gtk-4.0.so.37,libjavascriptcoregtk-4.0.so.18" c:identifier-prefixes="WebKit" c:symbol-prefixes="webkit">
+  <namespace name="WebKit2" version="4.0" shared-library="libjavascriptcoregtk-4.1.so" c:identifier-prefixes="WebKit" c:symbol-prefixes="webkit">
     <function-macro name="AUTHENTICATION_REQUEST" c:identifier="WEBKIT_AUTHENTICATION_REQUEST" introspectable="0">
       <source-position filename="../Source/WebKit/UIProcess/API/gtk/WebKitAuthenticationRequest.h" line="35"/>
       <parameters>
